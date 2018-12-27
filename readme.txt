@@ -1,6 +1,6 @@
 Edit on dev branch.
-qwe1
-asd asdasd 2
+Git is a distributed version control system.
+asd a asdasd 2
 git has a mutable index called stage.
 git tracks changes of files.
 1
