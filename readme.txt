@@ -1,3 +1,3 @@
 qwe1
 asd asdasd 2
-git Gpl
+git has a mutable index called stage.
